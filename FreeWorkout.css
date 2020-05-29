@@ -1,0 +1,18 @@
+#workoutDisplay {
+    font-family: 'Raleway', sans-serif;
+    font-size: x-large;
+    font-weight: 100;
+}
+
+#header {
+    background: url("https://images.unsplash.com/photo-1571008887538-b36bb32f4571?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80") center center / cover no-repeat;
+}
+
+.jumbotron {
+    justify-content: center;
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+
